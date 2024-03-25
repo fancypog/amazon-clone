@@ -5,3 +5,4 @@ Note to self:
 1) check hooks for the data layer
 2) check checkout.js calculations
 3) add payment page
+4) finish up deployment to github pages
